@@ -1,2 +1,9 @@
 # GURU NANAK DEV ENGINEERING COLLEGE  
 # LUDHIANA
+# **PROGRAMMING FOR PROGRAM SOLVING ESC-18105**
+## NAME-*SHARANJIT SINGH*
+## ROLL NO-*1914103*
+## BRANCH-*CIVIL*
+## SECTION-*CE(B2)*
+![LOGO](https://blog.coachingkaro.org/wp-content/uploads/2019/07/logo.jpg)
+## 
