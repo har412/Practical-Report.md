@@ -3,7 +3,7 @@
 ## NAME-*HARKIRAT SINGH*
 ## ROLL NO-*1915031*
 ## BRANCH-*COMPUTER SCIENCE*
-![LOGO](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwir3uyKhcrlAhVIpI8KHZbdBW0QjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pngguru.com%2Ffree-transparent-background-png-clipart-ikxhn&psig=AOvVaw3r0NTtuLLues9F5701GfLF&ust=1572732979563980..jpg)                       
+![LOGO](https://www.google.com.png)                       
 
 # 1.Program to display a welcome message using puts  
 
