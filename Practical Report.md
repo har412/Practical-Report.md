@@ -7,9 +7,8 @@
 
 # 1.Program to display a welcome message using puts  
 
-`#include<stdio.h>  
-
-int main()                                                                                               
+`#include<stdio.h>`   
+int main()                                                                                                 
 {  
 puts("\nHELLO TO BUDDING ENGINEERS\n");  
 return 0;  
