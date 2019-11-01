@@ -3,7 +3,7 @@
 ## NAME-*HARKIRAT SINGH*
 ## ROLL NO-*1915031*
 ## BRANCH-*COMPUTER SCIENCE*
-![LOGO](https://www.google.com/imgres?imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20180719%2Ftol%2Fkisspng-guru-nanak-dev-engineering-college-ludhiana-step-background-geometry-5b5101098399a6.262765451532035337539.jpg&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-guru-nanak-dev-engineering-college-ludhiana-step-g-5644912%2F&docid=ujNc5ev13ZrRuM&tbnid=kmlJxfCtw5jpmM%3A&vet=10ahUKEwjh57mx_MnlAhV963MBHXwNAGsQMwhPKAEwAQ..i&w=900&h=1000&safe=active&bih=600&biw=1252&q=gndec%20logo%20png&ved=0ahUKEwjh57mx_MnlAhV963MBHXwNAGsQMwhPKAEwAQ&iact=mrc&uact=8                          )
+![LOGO](                       
 
 # 1.Program to display a welcome message using puts  
 
@@ -62,5 +62,53 @@ sum of given numbers is 55
 ```
 
 # 4.Program to convert farenhiet to celcius
+
+```C
+#include<stdio.h>  
+int main()  
+{  
+float f,c;   
+printf(" Enter degree of farenhiet:  ");  
+scanf("%f",&f);  
+c=(f-32)*5/9;  
+printf("The coverted value of  %f farenhiet is : %f Celsius\n",f,c);  
+return 0;  
+}  
+```
+
+## Output of the program
+
+```C
+Enter degree of farenhiet:  45
+The coverted value of  45.000000 farenhiet is : 7.222222 Celsius
+```
+***
+# 5.Program to find area and perimeter of circle
+
+```C
+include<stdio.h>
+# define pi 3.141
+int main()
+{
+float a,r,b; 
+printf("Enter the magnitude of radius of circle :");
+scanf("%f",&r);
+a=pi*r*r;
+b=2*pi*r;
+printf("Area of the circle is %f \n",a);
+printf("perimeter of  the circle is %f \n ",b);
+return 0;
+}
+```
+
+## Output of the program
+
+```C
+Enter the magnitude of radius of circle :3
+Area of the circle is 28.268999  
+perimeter of  the circle is 18.846001 
+```
+
+# 6.Program to find number is odd or even
 
 ```C
