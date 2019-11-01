@@ -3,7 +3,7 @@
 ## NAME-*HARKIRAT SINGH*
 ## ROLL NO-*1915031*
 ## BRANCH-*COMPUTER SCIENCE*
-![LOGO](https://www.google.com.png)                       
+![LOGO](                     
 
 # 1.Program to display a welcome message using puts  
 
@@ -114,3 +114,79 @@ perimeter of  the circle is 18.846001
 # 6.Program to find number is odd or even
 
 ```C
+include<stdio.h>
+int main()
+{
+int n;
+printf("Enter the no : ");
+scanf("%d",&n);
+if(n%2==0)
+printf(" no is even\n");                                                                                 
+else
+printf("no is odd\n");      
+return 0;                                                                                              
+}                                                                                                                                                                          
+```
+
+## Output of the program
+
+```C
+Enter the no : 45
+no is odd
+```
+
+# 7.Program to find factorial of a number
+                                                                      
+```C
+include<stdio.h>
+int main()
+{
+int i,ans=1,n;                                                                                         
+printf("Enter the no:  ");
+scanf("%d",&n);
+for(i=1;i<=n;i++)
+ans=ans*i;
+printf("factorial of given no is : %d\n",ans);
+return 0;
+}
+ ```
+ 
+ ## Output of the program
+ 
+ ```C
+ Enter the no:  5
+factorial of given no is : 120
+ ```
+ 
+ # 8.Program to reverse a number
+ 
+ ```C
+ include<stdio.h>
+
+int main()
+{
+int n,ans=0,r;
+printf("Enter the no : ");
+scanf("%d",&n);                                                                                        
+while(n>0)
+{
+r=n%10;
+ans=ans*10+r;
+n=n/10;
+}
+printf("Reverse of the given no is : %d\n",ans);
+return 0;
+} 
+```
+
+## Output of the program
+
+```C
+Enter the no : 56234
+Reverse of the given no is : 43265
+ ```
+# 9.Prgram for fizz buzz game
+
+                                                                      
+                                                                      
+                                                                      
