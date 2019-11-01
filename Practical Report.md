@@ -25,7 +25,7 @@ return 0;
 #include<stdio.h>  
 int main()  
 {  
-puts("HARKIRAT SINGH \n CSE A1\n 1915031\n\ 
+puts("HARKIRAT SINGH \n CSE A1\n 1915031\n\
 44/40 G Shaheed Bhagat Singh Nagar Pakhowal road ludhiana");  
 return 0;  
 }  
