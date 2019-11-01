@@ -17,7 +17,9 @@ return 0;
 ```     
 ## Output of program  
 
-`HELLO TO BUDDING ENGINEERS`  
+```C
+HELLO TO BUDDING ENGINEERS  
+```
 
 # 2.Program to display address using puts  
 
@@ -82,7 +84,7 @@ return 0;
 Enter degree of farenhiet:  45
 The coverted value of  45.000000 farenhiet is : 7.222222 Celsius
 ```
-***
+
 # 5.Program to find area and perimeter of circle
 
 ```C
