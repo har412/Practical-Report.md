@@ -187,6 +187,53 @@ Reverse of the given no is : 43265
  ```
 # 9.Prgram for fizz buzz game
 
-                                                                      
-                                                                      
-                                                                      
+```C
+ #include<stdio.h>
+
+int main()
+{
+int i,n;
+printf("Enter the limit: ");
+scanf("%d",&n);
+for(i=1;i<=n;i++)
+{
+if(i%3==0&&i%5!=0)
+printf("fizz\n");
+if(i%5==0&&i%3!=0)
+printf("buzz\n");
+if(i%3==0&&i%5==0)
+printf("fizzbuzz\n");
+if(i%3!=0&&i%5!=0)
+printf("%d\n",i);
+}
+return 0;
+}                                                                   
+```
+
+## Output of the program
+
+```C
+Enter the limit: 20
+1
+2
+fizz
+4
+buzz
+fizz
+7
+8
+fizz
+buzz
+11
+fizz
+13
+14
+fizzbuzz
+16
+17
+fizz
+19
+buzz
+```
+
+# 10.Program to 
