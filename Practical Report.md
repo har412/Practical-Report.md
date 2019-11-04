@@ -985,4 +985,60 @@ return 0;
 ## Output of the program 
 ```C
 
+Enter roll no,name,marks,contact no: 1
+harkirat
+56
+5494656313
+Enter roll no,name,marks,contact no: 2
+gursewak
+62
+264654656563
+STUDENT 3 
+Enter roll no,name,marks,contact no: 3
+jasjot
+95
+56556556562
+STUDENT 4 
+Enter roll no,name,marks,contact no: 4
+harjit
+75
+651626323123
+STUDENT 5 
+Enter roll no,name,marks,contact no: 5     
+harjot
+65
+56565262526352
+for student 1 
+ roll no :1 
+ name: harkirat  
+ marks: 56 
+ contact no: 5494656313 
+
+ for student 2 
+ roll no :2 
+ name: gursewak  
+ marks: 62 
+ contact no: 264654656563 
+
+ for student 3 
+ roll no :3 
+ name: jasjot  
+ marks: 95 
+ contact no: 56556556562 
+
+ for student 4 
+ roll no :4 
+ name: harjit  
+ marks: 75 
+ contact no: 651626323123 
+
+ for student 5 
+ roll no :5 
+ name:   
+ marks: 65 
+ contact no: 56565262526352 
+```
+
+# 
+
                                        
