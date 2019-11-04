@@ -236,4 +236,6 @@ fizz
 buzz
 ```
 
-# 10.Program to 
+# 10.Program to display days of week using switch case
+
+                                       }
