@@ -2,8 +2,7 @@
 # **PROGRAMMING FOR PROGRAM SOLVING ESC-18105**
 ## NAME-*HARKIRAT SINGH*
 ## ROLL NO-*1915031*
-## BRANCH-*COMPUTER SCIENCE*
-![LOGO](                     
+## BRANCH-*COMPUTER SCIENCE*                   
 
 # 1.Program to display a welcome message using puts  
 
